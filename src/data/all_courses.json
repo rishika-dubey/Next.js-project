@@ -1,0 +1,49 @@
+{
+    "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Web Development",
+      "slug": "intro-web-dev",
+      "description": "Learn the basics of HTML, CSS, and JavaScript.",
+      "price": 49.99,
+      "instructor": "Alice Smith",
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "title": "Python for Data Science",
+      "slug": "python-data-science",
+      "description": "Master Python for data analysis and machine learning.",
+      "price": 99.99,
+      "instructor": "Bob Johnson",
+      "isFeatured": false
+    },
+      {
+      "id": 3,
+      "title": "Advanced React Concepts",
+      "slug": "advanced-react",
+      "description": "Dive deep into React hooks, context API, and performance optimization.",
+      "price": 79.99,
+      "instructor": "Charlie Williams",
+      "isFeatured": true
+    },
+      {
+      "id": 4,
+      "title": "Node.js Backend Development",
+      "slug": "nodejs-backend",
+      "description": "Build scalable and robust backend applications with Node.js and Express.",
+      "price": 69.99,
+      "instructor": "David Brown",
+      "isFeatured": false
+    },
+      {
+      "id": 5,
+      "title": "Mobile App Development with Flutter",
+      "slug": "flutter-mobile-dev",
+      "description": "Create cross-platform mobile apps using Flutter and Dart.",
+      "price": 89.99,
+      "instructor": "Eve Davis",
+      "isFeatured": true
+    }
+  ]
+}
